@@ -1,1 +1,1 @@
-hello world from other sidee
+hello world from other side of git
